@@ -1,7 +1,9 @@
-layout: page
-title: "VERY FIRST BOOK"
+---
+layout: post
+title: First Book 
 date: 2021-02-27 00:00:00 -0000
-permalink: /books/
 categories: books
+author: claire
+---
 
 # Very First Book
